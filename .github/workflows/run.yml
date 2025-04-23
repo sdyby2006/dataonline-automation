@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  ssh-login:
+  url-status-check:
     runs-on: ubuntu-latest
 
     steps:
